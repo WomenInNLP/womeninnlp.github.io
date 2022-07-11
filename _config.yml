@@ -1,12 +1,12 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "Women in NLP"
+email: cc@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+baseurl: "https://womeninnlp.github.io/"
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-author: Sal
-paginate: 30
+logo: r'C:\Users\elena\Documents\WomenInNLP.github.io\assets\images\WOMEN (2).png'
+# favicon: 'assets/images/favicon.ico'
+author: elena
+# paginate: 30
 disqus: 'demowebsite'
 locale: en_us
 lang: en_us
