@@ -3,7 +3,7 @@ title: "Women in NLP"
 timezone: CET
 # baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
-logo: 'assets/images/WOMEN (2).ico'
+# logo: 'assets/images/WOMEN (2).ico'
 favicon: 'assets/images/WOMEN (2).ico'
 author: Sal
 paginate: 30
