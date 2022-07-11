@@ -5,7 +5,7 @@ timezone: CET
 permalink: "/:title/"
 # logo: 'assets/images/WOMEN (2).ico'
 favicon: 'assets/images/WOMEN (2).ico'
-author: Sal
+author: Elena
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
