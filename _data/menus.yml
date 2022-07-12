@@ -6,6 +6,11 @@ topmenu:
 
 - title: Education
   url: "education/"
+  sublinks:
+  - title: Linguistics
+  url: "linguistics/"
+  - title: Natural Language Processing
+  url: "nlp/"
 
 - title: About
   url: "about/"
